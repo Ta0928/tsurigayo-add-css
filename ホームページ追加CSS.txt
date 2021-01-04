@@ -1,0 +1,109 @@
+/*サイトタイトルの背景色*/
+
+.siteHeader.siteHeader {
+    background-color: #ffb580;
+}
+
+
+/*スマホメニューボタンの位置*/
+
+.vk-mobile-nav-menu-btn {
+    top: 1px;
+    left: unset;
+	right: 10px;
+    overflow: visible;
+    border: 2px solid #333;
+    border-radius: 5px;
+    width: 60px;
+    height: 70px;
+    text-indent: 7px;
+}
+
+
+
+/*ページタイトルの位置*/
+
+.page-header {
+    text-align: left;
+}
+
+
+
+/*ページタイトルの設定*/
+.page-header_pageTitle, h1.page-header_pageTitle:first-child {
+        margin: 0px 0 0px;
+    margin-top: 0px!important;
+    margin-bottom: 0px!important;
+    font-size: 0px!important;
+}
+
+
+
+/*スライドショー設定*/
+.mini-content-container-1 .slide-text-title{
+font-size:5vw;
+}
+
+.mini-content-container-1 .slide-text-caption{
+font-size:5vw;
+}
+
+.mini-content-container-1
+.btn-ghost{
+font-size:4vw;
+}
+
+.mini-content-container-2
+.slide-text-title{
+font-size:5vw;
+}
+
+.mini-content-container-2
+.slide-text-caption{
+font-size:5vw;
+}
+
+.mini-content-container-2
+.btn-ghost{
+font-size:4vw;
+}
+
+.mini-content-container-3
+.slide-text-title{
+font-size:5vw;
+}
+
+.mini-content-container-3 .slide-text-caption{
+font-size:5vw;
+}
+
+.mini-content-container-3
+.btn-ghost{
+font-size:4vw;
+}
+
+
+.mini-content-container-4
+.slide-text-title{
+font-size:5vw;
+}
+
+.mini-content-container-4
+.slide-text-caption{
+font-size:5vw;
+}
+
+.mini-content-container-4
+.btn-ghost{
+font-size:4vw;
+}
+
+@media (min-width: 992px) {
+    
+p {
+    font-size:20px;
+    } 
+    
+}
+
+
